@@ -171,17 +171,3 @@ if st.button("Click for a Special Message 💌"):
 </div>
 """, unsafe_allow_html=True)
     
-    
-    #st.info("""
-    #My hot and gorgeous wifey❤️,
-
-    #From the moment you came into my life, everything became brighter, warmer, and more beautiful.  
-    #You are my peace, my happiness, and truly my daylight. 
-
-    #I’m so grateful for every laugh, every hug, and every memory we share.  
-    #I promise to love you, support you, and cherish you today and always.
-
-    #And I AM TRULY THE LUCKIEST GUY IN THE WHOLE UNIVERSE!!
-
-    #Happy Valentine's Day once again, my hottie💖
-    #""")
